@@ -1,8 +1,8 @@
 # p=1000
 # r=10
 # t=1
-# ci=p*(1+(r/100))**r-p
-# print("complex interest amount : ",ci)#pgm 1
+# ci=p*(1+(r/100))**t-p
+# print("complex interest amount : ",ci)pgm1
 
 # physics=90
 # biology=80
@@ -21,4 +21,3 @@
 # print("a=",a)
 # print("b=",b)#pgm 3
 
-print('hi')
